@@ -1,6 +1,6 @@
 const { Client } = require('discord.js');
 const bot = new Client;
-const token = "MTAxMzM0NzgyMjU0NTkyODE5Mg.GX4NGD.n0R_YebWOK9SLFjCJwSTV2KInpchJOb5BGuSuw"; // TOKEN BOT KAMU
+
 var PREFIX = "!"; // PREFIX BOT KAMU
 
 bot.on('ready', () => {
